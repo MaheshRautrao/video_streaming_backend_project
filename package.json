@@ -1,0 +1,12 @@
+{
+  "name": "video_streaming_app_backend",
+  "version": "1.0.0",
+  "description": "A complex backend project to enhance my backend skills",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Mahesh Rautrao",
+  "license": "ISC"
+}
